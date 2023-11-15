@@ -12,7 +12,7 @@ Welcome to the GitHub repository for my personal portfolio website! This space i
 
 ## 🌐 Live Demo
 
-Explore the live version of the portfolio [here] https://rajkumaralagappan2.github.io/your-portfolio
+Explore the live version of the portfolio [here] https://rajkumaralagappan2.github.io/my-portfolio
 
 ## 🛠️ Skills
 
@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-portfolio
+   cd my-portfolio
    ```
 
 3. **Open `index.html` in your browser or set up a local server.**
