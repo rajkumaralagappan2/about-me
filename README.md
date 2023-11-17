@@ -12,7 +12,7 @@ Welcome to the GitHub repository for my personal portfolio website! This space i
 
 ## 🌐 Live Demo
 
-Explore the live version of the portfolio [here] https://rajkumaralagappan2.github.io/my-portfolio
+Explore the live version of the portfolio [here] https://rajkumaralagappan2.github.io/cv
 
 ## 🛠️ Skills
 
@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rajkumaralagappan2/my-portfolio.git
+   git clone https://github.com/rajkumaralagappan2/cv.git
    ```
 
 2. **Navigate to the project directory:**
